@@ -1,28 +1,33 @@
 ---
 layout: default
-title: Modélisation
+title: Impression
 parent: Etapes de fabrication
 nav_order: 1
 ---
 
-# Modélisation
+# Impression
 
-Cette section décrit la première étape du processus de fabrication : la modélisation des pièces.
+Cette section décrit la première étape du processus de fabrication : l'impression des différentes pièces.
 
-## Logiciel utilisé
+## Matériel utilisé
 
 - Onshape
+- Orcaslicer
+- Imprimante 3D
+- Bobine de filament PLA
 
 ## Procédure de Préparation
 
-1. **Nettoyage** : Nettoyez tous les matériaux pour enlever la poussière et les débris.
-2. **Découpe** : Découpez les matériaux A et B selon les dimensions spécifiées.
-3. **Prétraitement** : Appliquez un traitement de surface si nécessaire.
+1. **Importation** : Ouvrez le lien Onshape et exportez les pièces
+2. **Préparation** : Ouvrez Orca slicer et importer la pièce
+3. **Nettoyage** : Assurrez vous que le plateau de l'imprimante 3D est propre (pas de résidus, poussière etc.)
+4. **Lancement** : Lancez l'impression de la pièce
 
-## Conseils de Sécurité
+Repètez ces étapes pour chaque pièce de l'assemblage.
 
-- Portez toujours l'équipement de protection individuelle.
-- Suivez les instructions de sécurité des outils utilisés.
+## Conseils d'impression
+
+- Assurez vous que la première couche est imprimée correctement avant de changer d'activité
 
 ---
 
