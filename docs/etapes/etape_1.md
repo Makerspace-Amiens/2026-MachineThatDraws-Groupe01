@@ -1,19 +1,17 @@
 ---
 layout: default
-title: Préparation des Matériaux
+title: Modélisation
 parent: Etapes de fabrication
 nav_order: 1
 ---
 
-# Préparation des Matériaux
+# Modélisation
 
-Cette section décrit la première étape du processus de fabrication : la préparation des matériaux.
+Cette section décrit la première étape du processus de fabrication : la modélisation des pièces.
 
-## Liste des Matériaux
+## Logiciel utilisé
 
-- Matériau A
-- Matériau B
-- Outils nécessaires
+- Onshape
 
 ## Procédure de Préparation
 
