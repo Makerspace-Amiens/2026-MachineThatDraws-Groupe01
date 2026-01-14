@@ -7,11 +7,11 @@ nav_order: 2
 
 # Assemblage
 
-Après la préparation des matériaux, l'étape suivante est l'assemblage.
+Après l'impression des pièces, l'étape suivante est l'assemblage.
 
 ## Étapes d'Assemblage
 
-1. **Organisation** : Organisez tous les composants préparés.
+1. **Organisation** : Rassemblez les pièces qui s'assemble en suivant l'assemblage Onshape.
 2. **Assemblage Initial** : Commencez par assembler les pièces principales.
 3. **Fixation** : Fixez solidement les pièces ensemble en utilisant les outils appropriés.
 
