@@ -29,6 +29,7 @@ Notre projet consiste à réaliser une machine qui dessine à partir d'un dessin
 Ici vous publierez le poster de votre projet.
 
 ![Poster projet](images/poster.jpg)
+![Logo unilasalle](images/unilasalle amiens.png)
 
 ## Vidéo
 
