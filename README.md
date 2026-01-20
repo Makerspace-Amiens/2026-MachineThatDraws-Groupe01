@@ -1,5 +1,5 @@
 # Template-project
-cioucuc
+cioucuc bioo
 Template pour la création d'un repo type projet pour le MakerSpace. Doc gérée via le thème [Just-The-Docs](https://just-the-docs.com) en vanilla.
 
 ## Bienvenue sur Notre Projet
