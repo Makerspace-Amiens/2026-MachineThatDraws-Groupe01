@@ -6,15 +6,15 @@ title: Objectifs du projet
 
 # Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+Pour ce projet, nous avons décider de réaliser une machine qui dessine fonctionnant sur deux axes x et y. Il nous fallait donc finir au moins un axe pour le premier semestre.
 
 ## Contexte du Projet
 
-Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+Ce projet fû réalisé dans le cadre scolaire, avec quelques contraintes de matériels et de temps. Mais nous étiez tout de même assez libres dans nos idées et nos réalisations.
 
 ## Objectifs du Projet
-
-Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede.
+- Savoir créer un projet de a à z en autonomie 
+- Etre créatif 
 
 # Existant
 
