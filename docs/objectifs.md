@@ -15,7 +15,7 @@ Ce projet fut réalisé dans le cadre scolaire, avec quelques contraintes de mat
 ## Objectifs du Projet
 - Savoir créer un projet de a à z en autonomie 
 - Etre créatif
-- S'adapter aux contraintes, et les intègrées dans le projet
+- S'adapter aux contraintes, et les intègrer dans le projet
 - Travailler en équipe
 - S'organiser
 - 
