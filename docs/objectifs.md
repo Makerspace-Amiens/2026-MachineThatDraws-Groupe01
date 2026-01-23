@@ -28,7 +28,7 @@ Nous avons pu nous appuyer sur des projets déjà existants dans la base de donn
 
 Contraintes fonctionnelles
 
--La machine doit pouvoir dessiner de manière fluide n'importe quel dessin vectorisable
+- La machine doit pouvoir dessiner de manière fluide n'importe quel dessin vectorisable
 
 Contraintes techniques
 
