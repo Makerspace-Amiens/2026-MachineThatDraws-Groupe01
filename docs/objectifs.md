@@ -32,19 +32,20 @@ Contraintes fonctionnelles
 
 Contraintes techniques
 
--Matériaux: On doit obligatoirement utilisée la planche fournie, de la manière que l'on souhaite, et tout le matériel fournis n'est pas à utiliser impérativement
--Électronique : Savoir maitriser la carte arduino et ses composant liés
--Logiciel : Utilisation d'Arduino IDE, de Github, et de Processing 
--Dimensions : Pas vraiment de contraintes, juste essayer de ne pas trop dépasser de la planche en bois
--Précision : Il faut que la machine fasse des traits précis et soignés 
+- Matériaux: On doit obligatoirement utilisée la planche fournie, de la manière que l'on souhaite, et tout le matériel fournis n'est pas à utiliser impérativement
+- Électronique : Savoir maitriser la carte arduino et ses composant liés
+- Logiciel : Utilisation d'Arduino IDE, de Github, et de Processing 
+- Dimensions : Pas vraiment de contraintes, juste essayer de ne pas trop dépasser de la planche en bois
+- Précision : Il faut que la machine fasse des traits précis et soignés 
 
 Contraintes d’usage
 
--Facilité d’utilisation
--Sécurité
--Maintenance
+- Facilité d’utilisation
+- Sécurité
+- Maintenance
 
 Contraintes budgétaires et temporelles
 
--Budget maximum
--Temps de réalisation
+- Budget maximum
+- Temps de réalisation : 30 heures par semestre, et autant d'heure que l'on veut en dehors
+
