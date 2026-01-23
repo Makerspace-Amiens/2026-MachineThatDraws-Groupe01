@@ -20,9 +20,7 @@ Bienvenue dans la documentation du projet "Machine that draws". Ce site a pour b
 
 ## À propos du Projet
 
-Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
-Notre projet consiste à réaliser une machine qui dessine à partir d'un dessin qui lui sera envoyé. Il est destiné à tout public friand d'innovation.
-
+Ce projet s'inscrit dans notre parcours scolaire, nous sommes un groupe de 5 étudiantes à Unilasalle Amiens. Il a pour but de nous former à la création et l'utilisation d'une machine à commande numérique. Il vise à concevoir une architecture système permettant de transformer une image numérique en un dessin physique, en passant par sa vectorisation et la génération de ses coordonnées G-code.
 
 ## Poster
 
