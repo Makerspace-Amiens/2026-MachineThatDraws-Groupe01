@@ -5,7 +5,7 @@ title: Accueil
 permalink: /
 ---
 
-# Bienvenue sur notre documentation du tutoriel sur github desktop
+# Projet Machine that draws
 
 Bienvenue dans la documentation du projet "Machine that draws". Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
