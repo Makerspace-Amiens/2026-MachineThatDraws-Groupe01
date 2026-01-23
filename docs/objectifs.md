@@ -6,20 +6,46 @@ title: Objectifs du projet
 
 # Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+Pour ce projet, nous avons décidé de réaliser une machine qui dessine, fonctionnant sur deux axes X et Y. Il nous fallait donc finaliser au moins un axe pour le premier semestre.
 
 ## Contexte du Projet
 
-Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+Ce projet fut réalisé dans le cadre scolaire, avec quelques contraintes de matériel et de temps. Mais nous étions tout de même assez libres dans nos idées et nos réalisations.
 
 ## Objectifs du Projet
-
-Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede.
+- Savoir créer un projet de a à z en autonomie 
+- Etre créatif
+- S'adapter aux contraintes, et les intégrer dans le projet
+- Travailler en équipe
+- S'organiser
+- Découvrir de nouveaux logiciels et composants
 
 # Existant
 
-Praesent blandit adipiscing velit. Suspendisse potenti. Donec mattis, pede vel pharetra blandit, magna ligula faucibus eros, id euismod lacus dolor eget odio.
+Nous avons pu nous appuyer sur des projets déjà existants dans la base de données du makerspace, ainsi que sur les machines déjà réalisées par les anciens étudiants. Nous avons mixé nos idées avec celles inspirées de ce que nous avions à disposition et nous nous sommes adaptés au matériel fourni, ce qui nous a permis de mettre au point une machine unique.
 
 # Cahier des Charges
 
-Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus.
+Contraintes fonctionnelles
+
+- La machine doit pouvoir dessiner de manière fluide n'importe quel dessin vectorisable
+
+Contraintes techniques
+
+- Matériaux: On doit obligatoirement utilisée la planche fournie, de la manière que l'on souhaite, et tout le matériel fournis n'est pas à utiliser impérativement
+- Électronique : Savoir maitriser la carte arduino et ses composant liés
+- Logiciel : Utilisation d'Arduino IDE, de Github, et de Processing 
+- Dimensions : Pas vraiment de contraintes, juste essayer de ne pas trop dépasser de la planche en bois
+- Précision : Il faut que la machine fasse des traits précis et soignés 
+
+Contraintes d’usage
+
+- Facilité d’utilisation
+- Sécurité
+- Maintenance
+
+Contraintes budgétaires et temporelles
+
+- Budget maximum
+- Temps de réalisation : 30 heures par semestre, et autant d'heure que l'on veut en dehors
+
