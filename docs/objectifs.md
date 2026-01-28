@@ -13,7 +13,8 @@ Pour ce projet, nous avons décidé de réaliser une machine qui dessine, foncti
 Ce projet fut réalisé dans le cadre scolaire, avec quelques contraintes de matériel et de temps. Mais nous étions tout de même assez libres dans nos idées et nos réalisations.
 
 ## Objectifs du Projet
-- Savoir créer un projet de a à z en autonomie 
+- Concevoir une machine qui dessine 
+- Réaliser un projet de a à z en autonomie 
 - Etre créatif
 - S'adapter aux contraintes, et les intégrer dans le projet
 - Travailler en équipe
