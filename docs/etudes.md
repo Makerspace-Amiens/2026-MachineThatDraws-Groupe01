@@ -6,7 +6,7 @@ title: Études et choix techniques
 
 # Études et choix techniques
 
-Ici on va devoir mettre tout notre chemin de pensée sur le projet, tout les comparatifs entre les machines étudiées avec ce qu'on aime et ce qu'on aime pas afin d'arriver à la machine qu'on a créée . Citer les sources ( vidéos etc )
+(commentaire) Ici vous retrouverez notre chemin de pensée sur le projet, les comparatifs entre les machines étudiées avec ce que l'on aime et ce qu'on aime pas afin d'arriver à la machine qu'on a créée . Citer les sources ( vidéos etc )
 
 
 Différents types de machines existants :
@@ -16,7 +16,7 @@ Fonctionne en utilisant un système de coordonnées X, Y (et parfois Z). Une tê
 
 Avantages
 - Idéale pour les projets nécessitant des dessins techniques ou détaillés
-- Assez solide et stable
+- Solide et stable
 
 Inconvénients
 - Peut prendre plus de temps et d'espace
@@ -40,7 +40,7 @@ Avantages :
 Inconvénients : 
 - Trop complexe pour le temps donné
 - Prend trop de place
-- Pas pratiques pour les petits dessins
+- Pas pratique pour les petits dessins
 
 ★ Machine à bras articulé :
  Utilise un ou plusieurs bras mécaniques pour déplacer un outil de dessin, comme un stylo, sur une surface
